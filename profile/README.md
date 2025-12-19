@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://ticktick.com/public/images/home/banner.png" width="1080" alt="TickTick Screenshot"/>  
+  <img src="https://preview.redd.it/macbook-app-doesnt-have-the-view-options-icon-like-on-v0-84dvp6ofeked1.png?" width="1080" alt="TickTick Screenshot"/>  
 </div>  
 
 <br>  
